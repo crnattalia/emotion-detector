@@ -1,0 +1,7 @@
+flask==3.0.2
+pandas==2.1.4
+scikit-learn==1.4.0
+joblib==1.3.2
+datasets==2.16.1
+transformers==4.37.0
+nltk==3.8.1
